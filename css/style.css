@@ -37,7 +37,10 @@ body{
     float-size:19px;
 }
 
- 
+.form-area {
+    display: flex;
+    justify-content: center;
+} 
  
 .form-group{
     padding-top: 40px;
